@@ -51,8 +51,11 @@ _**Updated Score by School Spending**_
    
 ### - Scores by school size
 _**Original Score by School Size**_
+
 ![original_score_by_school_size](https://github.com/rykiprince/School_District_Analysis/blob/main/Resources/school_size_summary.png)
+
 _**Updated Score by School Size**_
+
 ![updated_score_school_size](https://github.com/rykiprince/School_District_Analysis/blob/main/Resources/updated_school_size_summary.png)
 
 - As Thomas HS is in the medium school size bin, only the results of this category was impacted.
@@ -63,7 +66,9 @@ _**Updated Score by School Size**_
 _**Original Score by School type**_
 
 ![school_type_summary](https://github.com/rykiprince/School_District_Analysis/blob/main/Resources/school_type_summary.png)
+
 _**Updated Score by School type**_
+
 ![updated_school_type_summary](https://github.com/rykiprince/School_District_Analysis/blob/main/Resources/updated_school_type_summary.png)
 
 - As Thomas HS is a Charter School, only the results of this category was impacted.
